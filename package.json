@@ -1,0 +1,11 @@
+{
+  "name": "torrent-container",
+  "dependencies": {
+  	"nanoid": "*",
+  	"agenda": "^4.1.2"
+  	},
+  "devDependencies": {
+    "@types/mongodb": "^3.6.12",
+    "@types/node": "^14.14.37"
+  }
+}
